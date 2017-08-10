@@ -48,6 +48,12 @@ public class MainActivity extends AppCompatActivity {
 
         initFeature();
 
+        initFeature_2();
+
+    }
+
+    private void initFeature_2() {
+
     }
 
     private void initFeature() {
